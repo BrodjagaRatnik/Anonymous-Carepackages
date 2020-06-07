@@ -20,3 +20,5 @@ When authorities block Twitter, Facebook or..., here how u can go around blockad
 - [Download on the App store](https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627?mt=8)
 - [get from Google play](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
 - [More info](https://1.1.1.1/dns/#explanation)
+
+__[:point_left: BACK](README.md)__
