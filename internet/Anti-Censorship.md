@@ -9,12 +9,13 @@ When authorities block Twitter, Facebook or..., here how u can go around blockad
 - Google browser. https://chrome.google.com/webstore/detail/zenmate-vpn-best-cyber-se/fdcgdnkidjaadafnichfpabhfomcebme
 - Firefox browser https://addons.mozilla.org/en-US/firefox/addon/anonymox/
 - Tor Browser. https://www.torproject.org/download/
-- Get Tor Browser for Android. [Go to Goggle play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) [Go to F-Droid](https://support.torproject.org/tormobile/tormobile-7/)
+- Get Tor Browser for Android. [Go to Google play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) [Go to F-Droid](https://support.torproject.org/tormobile/tormobile-7/)
 - DNS provider that is open and democratic. https://www.opennic.org/
 - List of DNS servers that can be used to avoid censorship. https://www.lifewire.com/free-and-public-dns-servers-2626062
 - How Do I Change DNS Servers? https://www.lifewire.com/how-to-change-dns-server-settings-2617979
 - A flexible DNS proxy, with support for modern encrypted DNS protocols. https://github.com/DNSCrypt/dnscrypt-proxy
 
 #### DNS: Internet’s Directory Privacy First:
-- DNS IPv4 = 1.1.1.1 / 1.0.0.1
-- DNS IPv6 = 2606:4700:4700::1111 / 2606:4700:4700::1001
+- [Download on the App store](https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627?mt=8)
+- [get from Google play](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
+- [More info](https://1.1.1.1/dns/#explanation)
