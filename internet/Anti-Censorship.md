@@ -10,6 +10,7 @@ When authorities block Twitter, Facebook or..., here how u can go around blockad
 - Firefox browser https://addons.mozilla.org/en-US/firefox/addon/anonymox/
 - Tor Browser. https://www.torproject.org/download/
 - Get Tor Browser for Android. [Go to Google play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) [Go to F-Droid](https://support.torproject.org/tormobile/tormobile-7/)
+- [What to do when the onion router is blocked?](w-t-d-w-Tor-i-blocked.png)
 - DNS provider that is open and democratic. https://www.opennic.org/
 - List of DNS servers that can be used to avoid censorship. https://www.lifewire.com/free-and-public-dns-servers-2626062
 - How Do I Change DNS Servers? https://www.lifewire.com/how-to-change-dns-server-settings-2617979
