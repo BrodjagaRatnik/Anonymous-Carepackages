@@ -1,6 +1,6 @@
 When authorities block Twitter, Facebook or..., here how u can go around blockade. Most of the time, your ISP automatically assigns a primary and secondary DNS server when your router or computer requests network information via DHCP. But what if those ISP-provided DNS servers aren’t working properly or "they" block certain sites? 
 ### Ways to connect when authorities block services:
-- Unblock YouTube grants you access to any blocked web page. https://www.proxfree.com/
+- Unblock YouTube grants you access to any blocked web page. https://www.proxfree.com/youtube-proxy.php
 - Web Proxy is an intermediate point between your computer and the needed website. https://hidemy.name/en/
 - Use ProxMate. This is an add ons for web browser Mozilla Firefox or Chrome. https://proxmate.me/
 - Android: Circumvent Internet restrictions with Tor. https://web.archive.org/web/20191230053631/https://cyberguerrilla.org/android-circumvent-net-blocking-with-tor.htm
