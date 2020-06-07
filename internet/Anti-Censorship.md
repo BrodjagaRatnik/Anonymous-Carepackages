@@ -8,7 +8,8 @@ When authorities block Twitter, Facebook or..., here how u can go around blockad
 - Apple users. ~~https://itunes.apple.com/tr/app/free-vpn-onavo-protect/id577491499?mt=8~~
 - Google browser. https://chrome.google.com/webstore/detail/zenmate-vpn-best-cyber-se/fdcgdnkidjaadafnichfpabhfomcebme
 - Firefox browser https://addons.mozilla.org/en-US/firefox/addon/anonymox/
-- Tor Browser. https://www.torproject.org/download/ [Go to Goggle play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) [Go to F-Droid](https://support.torproject.org/tormobile/tormobile-7/)
+- Tor Browser. https://www.torproject.org/download/
+- Get Tor Browser for Android. [Go to Goggle play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) [Go to F-Droid](https://support.torproject.org/tormobile/tormobile-7/)
 - DNS provider that is open and democratic. https://www.opennic.org/
 - List of DNS servers that can be used to avoid censorship. https://www.lifewire.com/free-and-public-dns-servers-2626062
 - How Do I Change DNS Servers? https://www.lifewire.com/how-to-change-dns-server-settings-2617979
