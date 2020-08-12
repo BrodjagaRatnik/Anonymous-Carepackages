@@ -6,7 +6,7 @@
 
 - This diagram shows the flow of supplies along a human chain to the front line, and indicates where crowds of protesters can march past without interfering.
 
-![supply chain](supplychain.png)
+![supply chain](img/supplychain.png)
 
 ### HAND SIGNALS:
 - Protesters have developed simple hand signals to communicate. Soldiers have always used visual signals in battle. They carry over long distances in noisy environments.
@@ -17,19 +17,19 @@
 
 Hand signals for "HELMETS" (left) and "UMBRELLAS" (right)
 
-![](helmet.png)![](umbrellas.png)
+![](img/helmet.png)![](img/umbrellas.png)
 
 - Protesters use plastic wrap (cling wrap) around the uncovered parts of their face, neck, and forearms to shield skin from OC spray, PAVA (pelargonic acid vanillylamide), and CS irritant
 
 Hand signals for "MASKS" (left) and "PLASTIC WRAP" (right)
 
-![](mask.png)![](plasicwrap.png)
+![](img/mask.png)![](img/plasicwrap.png)
 
 - Not all protesters will be wearing full protective gear (like full-face gas masks). It's expensive and difficult to obtain. Protesters make do with what they have, with support.
 
 Hand signals for "EYE RINSE" (left) and "ASTHMA INHALER" (right).
 
-![](eyerince.png)![](asthmainhaler.png)
+![](img/eyerinse.png)![](img/asthmainhaler.png)
 
 
 
