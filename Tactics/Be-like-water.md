@@ -8,6 +8,11 @@ Video: https://vimeo.com/447199354
 
 ![supply chain](supplychain.png)
 
+### HAND SIGNALS:
+- Protesters have developed simple hand signals to communicate. Soldiers have always used visual signals in battle. They carry over long distances in noisy environments.
+
+Hand signal for "HELMET" Video: https://vimeo.com/447222320
+
 
 
 
