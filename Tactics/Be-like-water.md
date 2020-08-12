@@ -6,6 +6,8 @@ Video: https://vimeo.com/447199354
 
 - This diagram shows the flow of supplies along a human chain to the front line, and indicates where crowds of protesters can march past without interfering.
 
+![supply chain](supplychain.png)
+
 
 
 
