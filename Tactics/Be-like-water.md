@@ -55,5 +55,27 @@ Hand signals for "CABLE TIES" (left) and "SCISSORS" (right).
 
 ![](img/cableties.png)![](img/scissors.png)
 
+- Road signs are easy to dismantle to use for shields and barricades. Protesters learn to stage allen wrenches, monkey wrenches with long handles (for torque against vandal-proof nuts used on traffic signs) near protests.
+
+![](img/wrenche.png)
+
+### EYE FLUSH: 
+- If you see someone who appears to be blinded, gently place your hand on their shoulder and ask if they'd like you to guide them to an eye wash station. CONSENT: DO NOT try to move people or treat them without ASKING and explaining!
+
+![](img/wrenche.png)
+
+### DRESS EN BLOC:
+- The Black Bloc dress code exists for a very good reason.
+- "But I don't want to look like a protester!" YES YOU DO.
+- If you stand out in ANY way, you will be filmed, identified, and arrested later. Blend in.
+### NO FASHION AT PROTESTS
+- Wear nothing distinctive. No jewelry, no tattoos, no logos. 
+- Plain black hoodie, dark sneakers/boots.
+- Black ski mask OVER HEADGEAR. Hide your hair.
+- Harder to prosecute if everyone looks identical.
+- A woman faces 10 years in prison after police tracked her down using the shirt she was wearing in a journalist's photo.
+- Reporters and live-streamers are NOT there to protect you. Protect yourself.
+
+
 
 __[:point_left: BACK](README.md)__
