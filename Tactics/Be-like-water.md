@@ -31,6 +31,11 @@ Hand signals for "EYE RINSE" (left) and "ASTHMA INHALER" (right).
 
 ![](img/eyerinse.png)![](img/asthmainhaler.png)
 
+- Makeshift barricades are crucial to stopping the police "Zerg rush", where they charge protesters, knock some to the ground, and arrest them.
+
+Hand signals for "GOGGLES" (left) and "BARRICADE NEEDED" (right). The arrows indicate hand movement.
+
+![](img/goggles.png)![](img/barricadeneeded.png)
 
 
 
