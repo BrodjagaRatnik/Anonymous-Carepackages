@@ -17,7 +17,7 @@ Hand signal for "UMBRELLA" Video: https://vimeo.com/447224391
 
 Hand signals for "HELMETS" (left) and "UMBRELLAS" (right)
 
-![HELMETS UMBRELLAS](helmet-umbrella.png)
+![](helmet.png)![](umbrellas.png)
 
 
 
