@@ -77,5 +77,6 @@ Hand signals for "CABLE TIES" (left) and "SCISSORS" (right).
 - Reporters and live-streamers are NOT there to protect you. Protect yourself.
 
 
+Thanks to ![@chadloder](https://twitter.com/chadloder) https://twitter.com/chadloder/status/1287120932008427520
 
 __[:point_left: BACK](README.md)__
