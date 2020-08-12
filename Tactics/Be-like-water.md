@@ -62,7 +62,7 @@ Hand signals for "CABLE TIES" (left) and "SCISSORS" (right).
 ### EYE FLUSH: 
 - If you see someone who appears to be blinded, gently place your hand on their shoulder and ask if they'd like you to guide them to an eye wash station. CONSENT: DO NOT try to move people or treat them without ASKING and explaining!
 
-![](img/wrenche.png)
+![](img/eyeflush.png)
 
 ### DRESS EN BLOC:
 - The Black Bloc dress code exists for a very good reason.
