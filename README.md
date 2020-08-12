@@ -1,5 +1,6 @@
 # Anonymous Carepackages
 - When authorities block internet access, [go here](internet/README.md).
+- Be like water guide tactic for protests (Hong Kong protest tactics), [go here](Tactics/Be-like-water.md).
 
 
 
