@@ -52,6 +52,7 @@ Hand signals for "GOGGLES" (left) and "BARRICADE NEEDED" (right). The arrows ind
 - Protesters will need cable ties and sturdy scissors (get blunt-tipped shears, so you can't be accused of carrying a pointed weapon).
 
 Hand signals for "CABLE TIES" (left) and "SCISSORS" (right).
+
 ![](img/cableties.png)![](img/scissors.png)
 
 
