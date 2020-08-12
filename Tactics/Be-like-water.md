@@ -4,9 +4,7 @@
 
 [![Supply chain](https://res.cloudinary.com/marcomontalbano/image/upload/v1597250636/video_to_markdown/images/vimeo--447199354-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/447199354 "Supply chain")
 
-<video width="320" height="240" controls>
-  <source src="supplychain.mp4" type="video/mp4">
-</video>
+![](supplychain.mp4)
 
 - This diagram shows the flow of supplies along a human chain to the front line, and indicates where crowds of protesters can march past without interfering.
 
