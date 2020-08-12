@@ -15,6 +15,11 @@ Hand signal for "HELMET" Video: https://vimeo.com/447222320
 
 Hand signal for "UMBRELLA" Video: https://vimeo.com/447224391
 
+Hand signals for "HELMETS" (left) and "UMBRELLAS" (right)
+
+![HELMETS UMBRELLAS](supplychain.png)
+
+
 
 
 __[:point_left: BACK](README.md)__
