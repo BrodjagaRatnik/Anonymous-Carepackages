@@ -37,7 +37,22 @@ Hand signals for "GOGGLES" (left) and "BARRICADE NEEDED" (right). The arrows ind
 
 ![](img/goggles.png)![](img/barricadeneeded.png)
 
+### BARRICADE CONSTRUCTION:
 
+- Barricades are easily assembled from found items like fences, railings, and construction equipment. Note the use of zip ties. The barricade protects from the police Zerg rush, a common arrest tactic.
+
+![](img/barricade.png)
+
+### BARRICADE DEPLOYMENT:
+
+- Barricades are used to protect from police clearance operations. As we've seen in Portland, police like to launch surprise "clearing" attacks against the flanks of the crowd while protesters are distracted by the front. Video: https://vimeo.com/447239654
+
+- Quickly deploy barricades to protect the front line's vulnerable flanks. Allow wide-open egress from front lines to "green" zone territory (owned by large crowds of friendlies). Don't create chokepoints or trample hazards. Video: https://vimeo.com/447240219
+
+- Protesters will need cable ties and sturdy scissors (get blunt-tipped shears, so you can't be accused of carrying a pointed weapon).
+
+Hand signals for "CABLE TIES" (left) and "SCISSORS" (right).
+![](img/cableties.png)![](img/scissors.png)
 
 
 __[:point_left: BACK](README.md)__
