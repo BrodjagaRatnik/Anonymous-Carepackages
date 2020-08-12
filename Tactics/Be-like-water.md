@@ -25,6 +25,13 @@ Hand signals for "MASKS" (left) and "PLASTIC WRAP" (right)
 
 ![](mask.png)![](plasicwrap.png)
 
+- Not all protesters will be wearing full protective gear (like full-face gas masks). It's expensive and difficult to obtain. Protesters make do with what they have, with support.
+
+Hand signals for "EYE RINSE" (left) and "ASTHMA INHALER" (right).
+
+![](eyerince.png)![](asthmainhaler.png)
+
+
 
 
 
