@@ -21,4 +21,6 @@ When authorities block Twitter, Facebook or..., here how u can go around blockad
 - [get from Google play](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
 - [More info](https://1.1.1.1/dns/#explanation)
 
+![](img/blockandnow.png)
+
 __[:point_left: BACK](README.md)__
